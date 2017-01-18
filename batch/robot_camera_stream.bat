@@ -1,0 +1,1 @@
+START /B other_script\Release\IPCamStreamer_robot.exe

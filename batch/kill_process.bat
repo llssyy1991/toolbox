@@ -1,0 +1,2 @@
+tskill IPCamStreamer
+tskill IPCamStreamer1
