@@ -1,0 +1,7 @@
+service : interface to create AMQP service and a brief service call.
+
+video_button : show video on a qt button
+
+run_console_without_popout : run command with subprocess without pop out window
+
+ping robot : ping computer and chack the connection between them
